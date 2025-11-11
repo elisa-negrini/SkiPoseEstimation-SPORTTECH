@@ -1,0 +1,208 @@
+{
+    "os": "Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-02-21T11:26:32.294428",
+    "startedAt": "2024-02-21T11:26:31.743346",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/giuliamartinelli/Code/SkiPose/preprocess/coco/finetune_yolo.py",
+    "codePathLocal": "finetune_yolo.py",
+    "codePath": "preprocess/coco/finetune_yolo.py",
+    "git": {
+        "remote": "https://github.com/giuli13/SkiPose.git",
+        "commit": "b97adc7fd1aab5a9355e215c2d119a62e047b642"
+    },
+    "email": "giulia.martinelli-2@unitn.it",
+    "root": "/home/giuliamartinelli/Code/SkiPose",
+    "host": "Balrog",
+    "username": "giuliamartinelli",
+    "executable": "/home/giuliamartinelli/.local/share/virtualenvs/moma-Y7VQHoye/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 4499.880999999998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4499.881,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 129.4742202758789
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 30.91783905029297
+    }
+}
